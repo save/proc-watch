@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ack/Ack.vcxproj" Id="739551a4-15df-4ba9-a930-f1a7b29ac611" />
+</Solution>
